@@ -44,7 +44,7 @@ while True:
         print(f"최대 시도 횟수에 도달했습니다. 게임 종료! 정답은 {correct_answer}" )
         break
 
-    
+
     input_str = input("숫자를 입력해 주세요 : ")
     if  input_str.isdigit():
         guess = int(input_str)

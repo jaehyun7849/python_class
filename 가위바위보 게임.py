@@ -1,5 +1,4 @@
 import random
-from random import choice
 
 choice_list = ["가위", "바위", "보"]
 user_choice = ""
