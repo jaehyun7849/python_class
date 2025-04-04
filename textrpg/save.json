@@ -1,0 +1,88 @@
+{
+    "nickname": "1",
+    "level": 1,
+    "gold": 44,
+    "attack": 55,
+    "exp": 0,
+    "max_exp": 100,
+    "hp": 100,
+    "max_hp": 160,
+    "mp": 50,
+    "max_mp": 110,
+    "cri_luk": 80,
+    "skills": [
+        {
+            "name": "달팽이 세마리",
+            "mp_cost": 10,
+            "damage_multiple": 1.2
+        },
+        {
+            "name": "달팽이 네마리",
+            "mp_cost": 18,
+            "damage_multiple": 1.5
+        },
+        {
+            "name": "달팽이 다섯 마리",
+            "mp_cost": 23,
+            "damage_multiple": 1.8
+        }
+    ],
+    "items": [
+        {
+            "name": "도란의 검",
+            "attack": 5,
+            "hp": 0,
+            "mp": 0,
+            "cri_luk": 0,
+            "price": 50
+        },
+        {
+            "name": "삼위일체",
+            "attack": 20,
+            "hp": 30,
+            "mp": 30,
+            "cri_luk": 20,
+            "price": 333
+        },
+        {
+            "name": "삼위일체",
+            "attack": 20,
+            "hp": 30,
+            "mp": 30,
+            "cri_luk": 20,
+            "price": 333
+        },
+        {
+            "name": "민첩성의 망토",
+            "attack": 0,
+            "hp": 0,
+            "mp": 0,
+            "cri_luk": 10,
+            "price": 60
+        },
+        {
+            "name": "민첩성의 망토",
+            "attack": 0,
+            "hp": 0,
+            "mp": 0,
+            "cri_luk": 10,
+            "price": 60
+        },
+        {
+            "name": "민첩성의 망토",
+            "attack": 0,
+            "hp": 0,
+            "mp": 0,
+            "cri_luk": 10,
+            "price": 60
+        },
+        {
+            "name": "민첩성의 망토",
+            "attack": 0,
+            "hp": 0,
+            "mp": 0,
+            "cri_luk": 10,
+            "price": 60
+        }
+    ]
+}
